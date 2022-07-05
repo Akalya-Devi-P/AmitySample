@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(170, 209, 53);
+    font-size: xx-large;
+}
+
+#d1{
+    background: rgb(33, 156, 209);
+    height:700px;
+
+}
+
+#d2{
+    background: rgb(209, 168, 33);
+    height:700px;
+    
+}
+
+#d3{
+    background: rgb(209, 33, 142);
+    height:700px;
+    
+}
+
+input{
+    font-size: xx-large;
+}
